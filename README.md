@@ -12,7 +12,7 @@ My research examines these connections through nonlinear calculus and the Matrix
 
 The research develops through nine connected papers. The earlier studies establish the probability, integration, fluid-dynamics, and relativistic foundations. Paper 8 brings those studies together as a practical methods guide. Paper 9 applies and develops the methods through rigidity, the Navier–Stokes envelope, solid deformation, and multibody dynamics.
 
-This repository provides an overview of the connections and direct links to the Zenodo preprints.
+This repository provides an overview of the connections and direct links to the Zenodo preprints. The papers folder and index provides the same detail that can be found on Zenodo.
 
 ## Paper Index
 
